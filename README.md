@@ -1,3 +1,3 @@
 # 📊 Ibrahim Osama's Data Projects  
 
-Welcome to my project repository! Here, you'll find my **Python and Excel projects**, showcasing my skills in data analysis and visualization
+Welcome to my project repository! Here, you'll find my **Python and Excel projects**, showcasing my skills in **data analysis, visualization, and automation.**  
